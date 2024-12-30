@@ -1,18 +1,19 @@
-p {
+.p-class {
     background-color: lightpink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.div-1 {
+.adjust-size {
+    font-size: 24px;
+}
+
+#div-1 {
     color:blue;
     font-size: 36px;
 }
 
-#p-2{
-    font-size: 24px;
-}
 
-.div-2{
+#div-2{
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
