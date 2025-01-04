@@ -9,7 +9,7 @@ body {
   background: #ffffff;
   margin: 8px;
   padding: 8px;
-  
+  border: 1px solid black;
 }
 
 .title {
