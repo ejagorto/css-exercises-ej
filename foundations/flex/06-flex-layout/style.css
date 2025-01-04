@@ -48,6 +48,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px 24px;
 }
 
 input {
@@ -55,4 +56,17 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+  
+}
+
+ul {
+  display: flex;
+  gap: 18px;
+  list-style-type: none;
+  padding: 0;
 }
